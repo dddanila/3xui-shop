@@ -432,6 +432,7 @@ msgid ""
 msgstr ""
 "Ваш созданный промокод:\n"
 "```{promocode}```\n"
+"Продолжительность: {duration}\n"
 
 #: app/bot/routes/admin_tools/promocode_editor.py:129
 msgid ""
@@ -441,7 +442,7 @@ msgid ""
 msgstr ""
 "🎟️ *Редактор промокодов:*\n"
 "\n"
-"_Отправьте промокод для удаления_"
+"_Отправьте промокод для удаления_\n"
 
 #: app/bot/routes/admin_tools/promocode_editor.py:160
 msgid "✅ Promocode {promocode} deleted successfully."
